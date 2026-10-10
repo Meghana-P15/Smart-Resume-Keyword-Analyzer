@@ -1,0 +1,31 @@
+{
+  "candidate": {
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "age": 22,
+    "gender": "Male",
+    "candidateType": "Fresher",
+    "degree": "B.Tech Computer Science",
+    "university": "JNTU Hyderabad",
+    "graduationYear": 2026,
+    "cgpa": 8.4,
+    "summary": "Final year student interested in backend development and problem solving.",
+    "skills": ["Java", "SQL", "DSA", "React", "Springboot"],
+    "experiences": [],
+    "internship": "Backend intern building REST APIs with Java",
+    "projects": [
+      { "title": "Library Manager", "description": "REST API for a library system with Java and SQL", "technologies": "Java, SQL, React" }
+    ],
+    "certifications": [
+      { "name": "Java Programming Certificate", "issuer": "Oracle" }
+    ],
+    "achievements": "Solved 300 problems on coding platforms"
+  },
+  "job": {
+    "jobTitle": "Software Engineer",
+    "company": "Acme Tech",
+    "requiredExperience": 0,
+    "requiredSkills": ["Java", "SQL", "DSA", "React", "Spring Boot", "Docker", "AWS"],
+    "description": "We need a software engineer with strong Java, SQL and data structures knowledge to build REST APIs using Spring Boot. Experience with Docker and AWS is a plus."
+  }
+}
