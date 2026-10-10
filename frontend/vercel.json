@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "smart-resume-keyword-analyzer-production.up.railway.app"
+    }
+  ]
+}
